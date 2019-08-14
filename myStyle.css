@@ -1,0 +1,44 @@
+body{
+	font-size: 25px;
+	background: linear-gradient(to right, rgba(183,183,235,1) 0%, rgba(33,180,226,1) 32%, rgba(124,237,113,1) 75%, rgba(65,173,2,1) 100%);
+
+}
+
+thead{
+	background-color: rgb(33, 110, 235);
+	color: black;
+}
+
+tr{
+	background-color: white;
+}
+
+#todo{
+	padding-right: 200px;
+	border-bottom: 2px solid black;
+}
+
+table{
+	border: 1px solid black;
+  margin: auto;
+  width: 30%;
+	 
+}
+
+#inputTask{	
+}
+
+td{
+	border-bottom: 2px solid black;
+}
+
+#input1{
+	width: 100%;
+}
+
+#noBorder{
+	border-bottom: 0px;
+}
+
+
+
